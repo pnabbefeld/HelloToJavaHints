@@ -1,6 +1,6 @@
 # HelloToJavaHints
 
-This is a demontrational project, just to create some dummy project producing a Java Hint within NetBeans and to check whether it is working, and especially to check test class execution.
+This is a demonstrational project, just to create some dummy project producing a Java Hint within NetBeans and to check whether it is working, and especially to check test class execution.
 
 ## Available Tutorials
 1. https://netbeans.apache.org/tutorials/70/nbm-java-hint.html
