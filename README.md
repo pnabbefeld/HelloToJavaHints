@@ -56,5 +56,6 @@ The Java Hint is created using the first part of tutorial [3] using the followin
 
 ## Source Code and Results
 
-See individual branches.
+The source code has been created using NetBeans 13 running JDK 8 on Arch Linux.
 
+![Error hint shown in class JOptionPaneHint](com_sun_source_tree_Tree_hint.png "Result")
